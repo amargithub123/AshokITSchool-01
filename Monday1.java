@@ -1,4 +1,5 @@
 public class Monday1{
-	public void main(){
-}	
+   public void m1(){
+      System.out.println("Hi, How r u??");		
+	}	
 }
